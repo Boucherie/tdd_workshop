@@ -19,7 +19,14 @@ This workshop is based on Sandi Metz 99 Bottles of OOP book
     If nothing is returned, you'll need to install Git
     * `brew install git`
 
-3) **Clone the tdd_workshop project into your desired project folder**
+3) **Install Bundler**
+    Verify whether you have bundler installed, run the following command in your terminal
+    * `which bundler`
+    
+    If nothing is returned, you'll need to install bundler
+    * `sudo gem install bundler`
+
+4) **Clone the tdd_workshop project into your desired project folder**
     * `git clone git@github.com:teresamychu/tdd_workshop.git`
 
     * Navigate to the `notes` directory and run the following commands
